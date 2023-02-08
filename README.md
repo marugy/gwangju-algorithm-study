@@ -30,3 +30,7 @@ ssafy 주차별 커리큘럼에 따름
 ###### 백준 : https://www.acmicpc.net/
 ###### SWEA : https://swexpertacademy.com/main/main.do
 ###### 프로그래머스 : https://programmers.co.kr/
+
+### 주차별 문제
+##### 2월2주차  
+순열 : SWEA_4008,2112 , 스택 : BJ_2493,2504, 조합 : BJ_10974,1941, 큐 : BJ_14713,13335, 부분집합 : BJ_1182,1208
