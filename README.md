@@ -28,15 +28,15 @@ ex) BJ_1111_문제이름_사람이름
 ex) SW_1234_문제이름_사람이름  
 
 ## 커밋 컨벤션
-아래의 형식 참고하기
+아래의 형식 참고하기  
 https://overcome-the-limits.tistory.com/6
 
-### 문제 출제 참고 사이트
+## 문제 출제 참고 사이트
 ###### 백준 : https://www.acmicpc.net/
 ###### SWEA : https://swexpertacademy.com/main/main.do
 ###### 프로그래머스 : https://programmers.co.kr/
 
-### 주차별 문제
+## 주차별 문제
 ##### 2월2주차  
 순열 : SWEA_4008,2112
 
