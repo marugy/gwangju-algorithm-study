@@ -38,7 +38,7 @@ https://overcome-the-limits.tistory.com/6
 
 ## 주차별 문제
 ##### 2월3주차  
-트리: 
+트리: BJ_2533
 
 완탐:
 
