@@ -40,7 +40,7 @@ https://overcome-the-limits.tistory.com/6
 ##### 2월3주차  
 트리: BJ_2533
 
-완탐:
+완탐: BJ_12919_A와 B 2  
 
 그리디:
 
