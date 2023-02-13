@@ -42,7 +42,7 @@ https://overcome-the-limits.tistory.com/6
 
 완탐: BJ_12919_A와 B 2, BJ_1535 안녕
 
-그리디: BJ_1026_보물
+그리디: BJ_1026_보물, BJ_1339_단어수학
 
 ##### 2월2주차  
 순열: SWEA_4008,2112
