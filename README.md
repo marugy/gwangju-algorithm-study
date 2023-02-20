@@ -43,6 +43,7 @@ https://overcome-the-limits.tistory.com/6
 
 DP : PG_도둑질 (프로그래머스는 번호가없네), BJ_2293_동전1
 
+백트래킹 : BJ_1987_알파벳
 
 ##### 2월3주차  
 트리: BJ_2533, BJ_1068  
