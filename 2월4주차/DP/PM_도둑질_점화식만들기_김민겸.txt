@@ -7,9 +7,9 @@ f[i] = max(f[i-1],g[i-1])
 g[i] = f[i-1] + money[i]
 
 dp[i] = max(f[i], g[i])
-       = max(f[i-1], g[i-1], f[i-1] + money[i])
-       = max(dp[i-1], f[i-2] + money[i], g[i-2] + money[i])
-       = max(dp[i-1], dp[i-2] + money[i])
+      = max(f[i-1], g[i-1], f[i-1] + money[i])
+      = max(dp[i-1], f[i-2] + money[i], g[i-2] + money[i])
+      = max(dp[i-1], dp[i-2] + money[i])
 
 <초기값 설정>
 0번째 집을 털었을 경우:
