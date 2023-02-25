@@ -41,7 +41,7 @@ https://overcome-the-limits.tistory.com/6
 ##### 2월4주차
 그래프 : BJ_2589_보물섬, BJ_1245_농장관리
 
-DP : PG_도둑질, BJ_2293_동전1
+DP : P_도둑질, BJ_2293_동전1
 
 백트래킹 : BJ_1987_알파벳  
 
