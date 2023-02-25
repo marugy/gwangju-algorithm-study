@@ -1,0 +1,22 @@
+<변수 설정>
+f[i] : i번째 집까지 훔친돈 최대값. 단, i번째 집은 안 털음
+g[i] : i번째 집까지 훔친돈 최대값. 단, i번째 집은 털음
+
+<점화식 만들기>
+f[i] = max(f[i-1],g[i-1])
+g[i] = f[i-1] + money[i]
+
+dp[i] = max(f[i], g[i])
+       = max(f[i-1], g[i-1], f[i-1] + money[i])
+       = max(dp[i-1], f[i-2] + money[i], g[i-2] + money[i])
+       = max(dp[i-1], dp[i-2] + money[i])
+
+<초기값 설정>
+0번째 집을 털었을 경우:
+dp[0] = money[0]
+dp[1] = money[0] -> 1번집 털면 안됨
+
+0번째 집을 안 털었을 경우:
+dp[0] = 0
+dp[1] = money[1]
+
